@@ -1,9 +1,10 @@
 package com.antaev.codility;
 
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 
 import static com.antaev.codility.TapeEquilibrium.findEquilibrium;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertEquals;
 
 class TapeEquilibriumTest {
     @Test

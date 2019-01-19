@@ -2,9 +2,8 @@ package com.antaev.codility
 
 import com.antaev.codility.ArrayRotations.reverse
 import com.antaev.codility.ArrayRotations.rotate
-import org.junit.jupiter.api.Test
-
-import org.junit.jupiter.api.Assertions.*
+import org.junit.Assert.assertArrayEquals
+import org.junit.Test
 
 class ArrayRotationsTest {
 

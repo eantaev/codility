@@ -1,9 +1,9 @@
 package com.antaev.codility;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import static com.antaev.codility.MaxCounters.maxCounters;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertArrayEquals;
 
 class MaxCountersTest {
     @Test
