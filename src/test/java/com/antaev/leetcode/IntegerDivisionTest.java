@@ -1,4 +1,4 @@
-package com.antaev.com.antaev.leetcode;
+package com.antaev.leetcode;
 
 import org.junit.Test;
 

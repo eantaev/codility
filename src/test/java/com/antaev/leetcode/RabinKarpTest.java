@@ -1,9 +1,7 @@
-package com.antaev.com.antaev.leetcode;
+package com.antaev.leetcode;
 
+import com.antaev.leetcode.RabinKarp;
 import org.junit.Test;
-
-import java.util.Arrays;
-import java.util.stream.Stream;
 
 import static org.junit.Assert.*;
 

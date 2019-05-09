@@ -1,6 +1,5 @@
-package com.antaev.com.antaev.leetcode
+package com.antaev.leetcode
 
-import org.junit.Assert.*
 import org.junit.Test
 
 class ReverseIntegerTest {

@@ -1,4 +1,4 @@
-package com.antaev.com.antaev.leetcode;
+package com.antaev.leetcode;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

@@ -1,5 +1,6 @@
-package com.antaev.com.antaev.leetcode;
+package com.antaev.leetcode;
 
+import com.antaev.leetcode.MaximalRectangle;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

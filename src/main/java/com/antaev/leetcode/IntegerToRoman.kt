@@ -1,4 +1,4 @@
-package com.antaev.com.antaev.leetcode
+package com.antaev.leetcode
 
 import java.lang.IllegalArgumentException
 import java.lang.StringBuilder

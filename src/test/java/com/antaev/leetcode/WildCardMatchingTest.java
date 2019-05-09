@@ -1,13 +1,10 @@
-package com.antaev.com.antaev.leetcode;
+package com.antaev.leetcode;
 
+import com.antaev.leetcode.WildCardMatching;
 import org.junit.Test;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
-
-import static org.junit.Assert.*;
 
 public class WildCardMatchingTest {
     @Test

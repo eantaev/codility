@@ -1,5 +1,6 @@
-package com.antaev.com.antaev.leetcode
+package com.antaev.leetcode
 
+import com.antaev.leetcode.Regex
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertTrue
 import org.junit.Test

@@ -1,9 +1,9 @@
-package com.antaev.com.antaev.leetcode;
+package com.antaev.leetcode;
 
-import org.junit.Assert;
+import com.antaev.leetcode.ScrambleString;
 import org.junit.Test;
 
-import static com.antaev.com.antaev.leetcode.ScrambleString.isScramble;
+import static com.antaev.leetcode.ScrambleString.isScramble;
 import static org.junit.Assert.*;
 
 

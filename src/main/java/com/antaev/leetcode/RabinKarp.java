@@ -1,4 +1,4 @@
-package com.antaev.com.antaev.leetcode;
+package com.antaev.leetcode;
 
 public class RabinKarp {
     public static int strStr(String haystack, String needle) {

@@ -1,7 +1,7 @@
-package com.antaev.com.antaev.leetcode
+package com.antaev.leetcode
 
-import com.antaev.com.antaev.leetcode.IntegerToRoman.parseRoman
-import com.antaev.com.antaev.leetcode.IntegerToRoman.roman
+import com.antaev.leetcode.IntegerToRoman.parseRoman
+import com.antaev.leetcode.IntegerToRoman.roman
 import org.junit.Assert.*
 import org.junit.Test
 

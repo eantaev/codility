@@ -1,4 +1,4 @@
-package com.antaev.com.antaev.leetcode
+package com.antaev.leetcode
 
 object ReverseInteger {
     fun reverse(x: Int): Int {

@@ -1,4 +1,4 @@
-package com.antaev.com.antaev.leetcode;
+package com.antaev.leetcode;
 
 public class IntegerDivision {
     public static int divide(int dividend, int divisor) {
